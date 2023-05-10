@@ -1,0 +1,7 @@
+C:\Users\Feb12\source\repos\Mrs\obj\Debug\Mrs.csproj.AssemblyReference.cache
+C:\Users\Feb12\source\repos\Mrs\obj\Debug\Mrs.csproj.CoreCompileInputs.cache
+C:\Users\Feb12\source\repos\Mrs\bin\Debug\Mrs.exe.config
+C:\Users\Feb12\source\repos\Mrs\bin\Debug\Mrs.exe
+C:\Users\Feb12\source\repos\Mrs\bin\Debug\Mrs.pdb
+C:\Users\Feb12\source\repos\Mrs\obj\Debug\Mrs.exe
+C:\Users\Feb12\source\repos\Mrs\obj\Debug\Mrs.pdb

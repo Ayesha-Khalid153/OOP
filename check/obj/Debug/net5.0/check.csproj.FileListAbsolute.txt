@@ -1,0 +1,16 @@
+C:\Users\Feb12\source\repos\check\bin\Debug\net5.0\check.exe
+C:\Users\Feb12\source\repos\check\bin\Debug\net5.0\check.deps.json
+C:\Users\Feb12\source\repos\check\bin\Debug\net5.0\check.runtimeconfig.json
+C:\Users\Feb12\source\repos\check\bin\Debug\net5.0\check.runtimeconfig.dev.json
+C:\Users\Feb12\source\repos\check\bin\Debug\net5.0\check.dll
+C:\Users\Feb12\source\repos\check\bin\Debug\net5.0\ref\check.dll
+C:\Users\Feb12\source\repos\check\bin\Debug\net5.0\check.pdb
+C:\Users\Feb12\source\repos\check\obj\Debug\net5.0\check.csproj.AssemblyReference.cache
+C:\Users\Feb12\source\repos\check\obj\Debug\net5.0\check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feb12\source\repos\check\obj\Debug\net5.0\check.AssemblyInfoInputs.cache
+C:\Users\Feb12\source\repos\check\obj\Debug\net5.0\check.AssemblyInfo.cs
+C:\Users\Feb12\source\repos\check\obj\Debug\net5.0\check.csproj.CoreCompileInputs.cache
+C:\Users\Feb12\source\repos\check\obj\Debug\net5.0\check.dll
+C:\Users\Feb12\source\repos\check\obj\Debug\net5.0\ref\check.dll
+C:\Users\Feb12\source\repos\check\obj\Debug\net5.0\check.pdb
+C:\Users\Feb12\source\repos\check\obj\Debug\net5.0\check.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Feb12\source\repos\clockType\bin\Debug\clockType.exe.config
+C:\Users\Feb12\source\repos\clockType\bin\Debug\clockType.exe
+C:\Users\Feb12\source\repos\clockType\bin\Debug\clockType.pdb
+C:\Users\Feb12\source\repos\clockType\obj\Debug\clockType.csproj.AssemblyReference.cache
+C:\Users\Feb12\source\repos\clockType\obj\Debug\clockType.csproj.CoreCompileInputs.cache
+C:\Users\Feb12\source\repos\clockType\obj\Debug\clockType.exe
+C:\Users\Feb12\source\repos\clockType\obj\Debug\clockType.pdb

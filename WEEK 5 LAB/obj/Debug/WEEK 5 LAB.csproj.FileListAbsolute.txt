@@ -1,0 +1,7 @@
+C:\Users\Feb12\source\repos\WEEK 5 LAB\bin\Debug\WEEK 5 LAB.exe.config
+C:\Users\Feb12\source\repos\WEEK 5 LAB\bin\Debug\WEEK 5 LAB.exe
+C:\Users\Feb12\source\repos\WEEK 5 LAB\bin\Debug\WEEK 5 LAB.pdb
+C:\Users\Feb12\source\repos\WEEK 5 LAB\obj\Debug\WEEK 5 LAB.csproj.AssemblyReference.cache
+C:\Users\Feb12\source\repos\WEEK 5 LAB\obj\Debug\WEEK 5 LAB.csproj.CoreCompileInputs.cache
+C:\Users\Feb12\source\repos\WEEK 5 LAB\obj\Debug\WEEK 5 LAB.exe
+C:\Users\Feb12\source\repos\WEEK 5 LAB\obj\Debug\WEEK 5 LAB.pdb

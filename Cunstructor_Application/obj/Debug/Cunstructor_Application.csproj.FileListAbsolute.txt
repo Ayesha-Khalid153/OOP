@@ -1,0 +1,7 @@
+C:\Users\Feb12\source\repos\Cunstructor_Application\bin\Debug\Cunstructor_Application.exe.config
+C:\Users\Feb12\source\repos\Cunstructor_Application\bin\Debug\Cunstructor_Application.exe
+C:\Users\Feb12\source\repos\Cunstructor_Application\bin\Debug\Cunstructor_Application.pdb
+C:\Users\Feb12\source\repos\Cunstructor_Application\obj\Debug\Cunstructor_Application.csproj.AssemblyReference.cache
+C:\Users\Feb12\source\repos\Cunstructor_Application\obj\Debug\Cunstructor_Application.csproj.CoreCompileInputs.cache
+C:\Users\Feb12\source\repos\Cunstructor_Application\obj\Debug\Cunstructor_Application.exe
+C:\Users\Feb12\source\repos\Cunstructor_Application\obj\Debug\Cunstructor_Application.pdb
