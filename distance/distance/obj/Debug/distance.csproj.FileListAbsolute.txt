@@ -1,0 +1,7 @@
+C:\Users\Feb12\source\repos\distance\distance\obj\Debug\distance.csproj.AssemblyReference.cache
+C:\Users\Feb12\source\repos\distance\distance\obj\Debug\distance.csproj.CoreCompileInputs.cache
+C:\Users\Feb12\source\repos\distance\distance\bin\Debug\distance.exe.config
+C:\Users\Feb12\source\repos\distance\distance\bin\Debug\distance.exe
+C:\Users\Feb12\source\repos\distance\distance\bin\Debug\distance.pdb
+C:\Users\Feb12\source\repos\distance\distance\obj\Debug\distance.exe
+C:\Users\Feb12\source\repos\distance\distance\obj\Debug\distance.pdb
